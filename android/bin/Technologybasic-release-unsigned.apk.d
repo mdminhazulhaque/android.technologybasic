@@ -1,0 +1,27 @@
+/media/Data/Developments/Workspace/Qt/technologybasic/android/bin/Technologybasic-release-unsigned.apk : \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/bin/Technologybasic.ap_ \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/bin/classes.dex \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/libs/--Managed_by_Qt_Creator--QtAndroid-bundled.jar \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/libs/armeabi-v7a/lib--Managed_by_Qt_Creator--plugins_imageformats_libqwbmp.so \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/libs/armeabi-v7a/lib--Managed_by_Qt_Creator--plugins_sqldrivers_libqsqlite.so \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/libs/armeabi-v7a/lib--Managed_by_Qt_Creator--plugins_imageformats_libqtga.so \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/libs/armeabi-v7a/lib--Managed_by_Qt_Creator--plugins_imageformats_libqsvg.so \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/libs/armeabi-v7a/lib--Managed_by_Qt_Creator--plugins_imageformats_libqjpeg.so \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/libs/armeabi-v7a/lib--Managed_by_Qt_Creator--plugins_accessible_libqtaccessiblequick.so \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/libs/armeabi-v7a/libQt5Gui.so \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/libs/armeabi-v7a/lib--Managed_by_Qt_Creator--plugins_imageformats_libqico.so \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/libs/armeabi-v7a/libgnustl_shared.so \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/libs/armeabi-v7a/lib--Managed_by_Qt_Creator--plugins_platforms_libqminimal.so \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/libs/armeabi-v7a/lib--Managed_by_Qt_Creator--plugins_imageformats_libqgif.so \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/libs/armeabi-v7a/lib--Managed_by_Qt_Creator--plugins_imageformats_libqtiff.so \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/libs/armeabi-v7a/lib--Managed_by_Qt_Creator--plugins_accessible_libqtaccessiblewidgets.so \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/libs/armeabi-v7a/lib--Managed_by_Qt_Creator--plugins_platforms_libqeglfs.so \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/libs/armeabi-v7a/lib--Managed_by_Qt_Creator--plugins_imageformats_libqmng.so \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/libs/armeabi-v7a/libQt5Core.so \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/libs/armeabi-v7a/lib--Managed_by_Qt_Creator--plugins_platforms_android_libqtforandroid.so \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/libs/armeabi-v7a/lib--Managed_by_Qt_Creator--plugins_platforms_android_libqtforandroidGL.so \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/libs/armeabi-v7a/lib--Managed_by_Qt_Creator--plugins_platforms_libqminimalegl.so \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/libs/armeabi-v7a/libQt5Sql.so \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/libs/armeabi-v7a/libtechnologybasic.so \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/libs/armeabi-v7a/lib--Managed_by_Qt_Creator--plugins_platforms_libqoffscreen.so \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/libs/armeabi-v7a/libQt5Widgets.so \

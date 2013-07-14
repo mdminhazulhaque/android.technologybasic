@@ -1,0 +1,25 @@
+/media/Data/Developments/Workspace/Qt/technologybasic/android/bin/classes.dex : \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$3$1$1.class \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$1.class \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$5.class \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$3$1.class \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity.class \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$4.class \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/bin/classes/org/qtproject/qt5/android/bindings/QtApplication$InvokeResult.class \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$2.class \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/bin/classes/org/qtproject/qt5/android/bindings/QtApplication.class \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$6.class \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$3.class \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback$Stub$Proxy.class \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback$Stub.class \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/bin/classes/org/kde/necessitas/ministro/IMinistro$Stub.class \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/bin/classes/org/kde/necessitas/ministro/IMinistro$Stub$Proxy.class \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/bin/classes/org/kde/necessitas/ministro/IMinistro.class \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback.class \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/bin/classes/com/minhazulhaque/android/technologybasic/R$string.class \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/bin/classes/com/minhazulhaque/android/technologybasic/R$layout.class \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/bin/classes/com/minhazulhaque/android/technologybasic/R.class \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/bin/classes/com/minhazulhaque/android/technologybasic/BuildConfig.class \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/bin/classes/com/minhazulhaque/android/technologybasic/R$attr.class \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/bin/classes/com/minhazulhaque/android/technologybasic/R$array.class \
+/media/Data/Developments/Workspace/Qt/technologybasic/android/bin/dexedLibs/--Managed_by_Qt_Creator--QtAndroid-bundled-a83e8bd61a69e81e8dca2e43fff843c4.jar \
